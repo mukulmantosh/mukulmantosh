@@ -10,7 +10,6 @@
 
 ### I'm a Lazy Programmer !
 
-- 🔭 I’m currently working in [Robert Bosch][companyWebsite]!
 - 🌱 I’m currently using [SpeedForce] to learn everything 🤣
 
 
@@ -22,8 +21,10 @@
 [<img align="left" alt="mukulmantosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulmantosh&show_icons=true&locale=en&layout=compact" alt="mukulmantosh" /></p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulmantosh&show_icons=true&locale=en&layout=compact" alt="mukulmantosh" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulmantosh&show_icons=true&locale=en" alt="mukulmantosh" /></p>
 
 
