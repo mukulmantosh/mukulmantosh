@@ -19,9 +19,6 @@
 [<img align="left" alt="mukulmantosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mukulmantosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulmantosh&show_icons=true&locale=en" alt="mukulmantosh" /></p>
-<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmovva&layout=compact&theme=radical)](https://github.com/akhilmovva/github-readme-stats)
