@@ -16,19 +16,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mukulmantosh | MM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mukulmantosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mukulmantosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulmantosh&show_icons=true&locale=en&layout=compact" alt="mukulmantosh" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulmantosh&show_icons=true&locale=en" alt="mukulmantosh" /></p>
 <br>
 <br>
-## Statistical Data
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmovva&layout=compact&theme=radical)](https://github.com/akhilmovva/github-readme-stats)
 
