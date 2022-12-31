@@ -26,11 +26,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulmantosh&show_icons=true&locale=en&layout=compact" alt="mukulmantosh" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulmantosh&show_icons=true&locale=en" alt="mukulmantosh" /></p>
+<br>
+<br>
+## Statistical Data
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmovva&layout=compact&theme=radical)](https://github.com/akhilmovva/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulmantosh&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mukulmantosh&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
 [website]: https://github.com/mukulmantosh
-[companyWebsite]: https://www.bosch.in/
 [twitter]: https://twitter.com/MantoshMukul
 [linkedin]: https://in.linkedin.com/in/mukul-mantosh
 [stackoverflow]: https://stackoverflow.com/users/4382077/mukul-mantosh
