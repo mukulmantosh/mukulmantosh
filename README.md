@@ -24,9 +24,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulmantosh&langs_count=8&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulmantosh&layout=compact&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulmantosh&langs_count=8&theme=radical)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulmantosh&show_icons=true&theme=radical)
 
