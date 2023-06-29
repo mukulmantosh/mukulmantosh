@@ -24,7 +24,9 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmovva&layout=compact&theme=radical)](https://github.com/akhilmovva/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulmantosh&langs_count=8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulmantosh&layout=compact&theme=radical)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulmantosh&show_icons=true&theme=radical)
 
