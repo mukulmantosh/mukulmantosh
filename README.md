@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulmantosh&langs_count=8&theme=radical)
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/mukulmantosh/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/mukulmantosh/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/mukulmantosh/github-stats-transparent/output/generated/languages.svg)
