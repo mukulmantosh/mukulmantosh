@@ -13,7 +13,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulmantosh&langs_count=8&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulmantosh&show_icons=true&theme=radical)
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/mukulmantosh/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/mukulmantosh/github-stats-transparent/output/generated/languages.svg)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mukulmantosh&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
