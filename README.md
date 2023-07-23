@@ -25,3 +25,4 @@ utilizing the [speedforce] to acquire fresh knowledge and skills.
 [linkedin-url]: https://in.linkedin.com/in/mukul-mantosh
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/MantoshMukul
+[speedforce]: https://en.wikipedia.org/wiki/Speedster_(fiction)
