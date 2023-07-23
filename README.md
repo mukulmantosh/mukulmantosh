@@ -1,4 +1,4 @@
-## Hi there, I'm Mukul Mantosh - aka [MM][website]! 👋
+## Hi, I'm Mukul 👋
 
 ### I'm a Lazy Programmer !
 
