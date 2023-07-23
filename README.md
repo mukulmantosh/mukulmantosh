@@ -1,6 +1,7 @@
 ## Hi, I'm Mukul 👋
 
-[background-cover](./misc/background.png)
+![background-cover](./misc/background.png)
+
 ### I'm a Lazy Programmer !
 
 - 🌱 I’m currently using [SpeedForce] to learn everything 🤣
