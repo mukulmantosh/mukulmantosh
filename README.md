@@ -3,9 +3,7 @@
 ![background-cover](./misc/background.png)
 
 
-I am someone who loves to learn and is deeply passionate about technology. I consider myself a 
-software engineering enthusiast and also take keen interest in content creation. At the moment, I am 
-utilizing the [speedforce] to acquire fresh knowledge and skills.
+I am an individual who thrives on learning and holds a profound passion for technology. I see myself as an aficionado of software engineering and am also highly interested in content creation. Presently, I am employing the [speedforce] to absorb novel insights and competencies.
 
 
 
