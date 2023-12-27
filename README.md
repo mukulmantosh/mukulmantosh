@@ -13,7 +13,7 @@ I am an individual who thrives on learning and holds a profound passion for tech
 [![Twitter][twitter-shield]][twitter-url]
 [![YouTube][youtube-shield]][youtube-url]
 
-![techstack](./misc/stack.png)
+![techstack](https://gist.githubusercontent.com/mukulmantosh/5ef7dcd2cd1b1b06cc02bcf11378b2b6/raw/7da2ad473c3787c5cd43d07509ab03e72aa3fc80/stack.png)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://in.linkedin.com/in/mukul-mantosh
