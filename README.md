@@ -3,7 +3,7 @@
 ![background-cover](https://gist.githubusercontent.com/mukulmantosh/6c146ac41fac13cb92390024f835736e/raw/49632957f84c91f255d1eca53f57b95c96f4208c/background.png)
 
 
-I am an individual who thrives on learning and holds a profound passion for technology. I see myself as an aficionado of software engineering and am also highly interested in content creation. Presently, I am employing the [speedforce] to absorb novel insights and competencies.
+I'm currently exploring, experimenting, and applying [speedforce]. 
 
 
 
