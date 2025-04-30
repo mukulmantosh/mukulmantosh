@@ -23,8 +23,9 @@ I'm currently exploring, experimenting, and applying [speedforce].
 [youtube-url]: https://www.youtube.com/@MukulMantosh
 [speedforce]: https://en.wikipedia.org/wiki/Speedster_(fiction)
 
+If you're getting started with GoLand, these are the repositories I actively maintain and contribute to:
 
-| Tables        | Topics | 
-| ------------- |:-------------|
-| [goland-generic-demo](https://github.com/mukulmantosh/Go_Food_Delivery) | GoLand Demo
-| [goland-k8s](https://github.com/mukulmantosh/go_kubernetes) | Kuberenetes with GoLand
+| Tables        | Topics | Description | |
+| ------------- |:-------------| :------------- | :------------- |
+| [Go_Food_Delivery](https://github.com/mukulmantosh/Go_Food_Delivery) | Go Food Delivery | Go-based Food Delivery Application| <img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png" alt="GoLand logo.">
+| [go_kubernetes](https://github.com/mukulmantosh/go_kubernetes) | Kuberenetes with GoLand | Deploy Go Apps With Kubernetes | <img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png" alt="GoLand logo.">
