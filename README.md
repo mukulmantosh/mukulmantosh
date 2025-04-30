@@ -27,6 +27,6 @@ If you're getting started with GoLand, these are the repositories I actively mai
 
 | Tables        |  Description    |   Topics Covered | Tutorial/Blogs/Videos | Product   |
 | ------------- | :-------------------------- | :------------- | :-- | :------------- |
-| [Go_Food_Delivery](https://github.com/mukulmantosh/Go_Food_Delivery) | Go-based Food Delivery Application| GoLand Features |✅|<img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png" alt="GoLand logo.">
-| [go_kubernetes](https://github.com/mukulmantosh/go_kubernetes) |  Deploy Go Apps With Kubernetes | K8s Support |✅| <img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png" alt="GoLand logo.">
-| [go_telepresence](https://github.com/mukulmantosh/go_telepresence) |  Telepresence with K8s & GoLand | Telepresence Support | | <img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png" alt="GoLand logo.">
+| [Go_Food_Delivery](https://github.com/mukulmantosh/Go_Food_Delivery) | Go-based Food Delivery Application| GoLand Features |✅|<img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png" alt="GoLand logo.">
+| [go_kubernetes](https://github.com/mukulmantosh/go_kubernetes) |  Deploy Go Apps With Kubernetes | K8s Support |✅| <img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png" alt="GoLand logo.">
+| [go_telepresence](https://github.com/mukulmantosh/go_telepresence) |  Telepresence with K8s & GoLand | Telepresence Support | | <img height="30" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand.png" alt="GoLand logo.">
