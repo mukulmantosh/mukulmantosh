@@ -24,7 +24,7 @@ I'm currently exploring, experimenting, and applying [speedforce].
 [speedforce]: https://en.wikipedia.org/wiki/Speedster_(fiction)
 
 
-| Content        | Features | 
-| ------------- |:-------------| :-----| :- | :- |
-| [goland-demo](https://github.com/mukulmantosh/Go_Food_Delivery) | GoLand Demo  
-
+| Tables        | Topics | 
+| ------------- |:-------------|
+| [goland-generic-demo](https://github.com/mukulmantosh/Go_Food_Delivery) | GoLand Demo
+| [goland-k8s](https://github.com/mukulmantosh/go_kubernetes) | Kuberenetes with GoLand
